@@ -18,9 +18,6 @@ I'm currently working on qashpoll.com
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=@rizaliswandy)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=R124L-Tech&icon=0&color=0)](https://visitcount.itsvg.in)
 
