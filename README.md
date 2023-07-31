@@ -3,10 +3,10 @@ Hi there! 👋 I'm **Rizal Iswandy**, a passionate full-stack web developer with
 # My Expertise
 
 💻 **Frontend Development**: 
-I specialize in React.js and Next.js, which allows me to build blazing-fast and scalable web applications with clean and maintainable code. I am also proficient in TypeScript for type-safe and more robust development.
+I specialize in ReactJS and NextJS, which allows me to build blazing-fast and scalable web applications with clean and maintainable code. I am also proficient in TypeScript for type-safe and more robust development.
 
 🗄️ **Backend Development**: 
-My backend stack includes MySQL, Python, PHP (CodeIgniter), and C#, ensuring data integrity and efficient handling of large datasets.
+My backend stack includes NextJS with Prisma and MySQL ensuring data integrity and efficient handling of large datasets.
 
 🌐 **Full-Stack Development**: 
 As a full-stack developer, I love crafting complete web solutions that provide seamless user experiences from front to back.
