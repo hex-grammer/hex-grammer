@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on qashpoll.com as a Front-End Developer
+~
 
 
 ## 🌐 Socials:
